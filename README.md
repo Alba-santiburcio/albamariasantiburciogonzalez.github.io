@@ -6,11 +6,11 @@ Titulo : Minijuegos interactivos
 
 Web: Alba-santiburcio/alba maria santiburcio gonzalez.github.io 
 
-Autor: Alba María Santiburcio González
+Autor: Alba María Santiburcio González.
 
-Resumen : 
+Resumen : "Minijuegos interactivos" es una aplicación interactiva realizada con la aplicación digital Hippani. En ella, el usuario debe pasar por tres niveles o juegos; cada uno de ellos con una funcionalidad distinta dentro del ordenador. El primero de ellos funciona mediante el uso del ratón; el segundo con ayuda del teclado y el último a través de botones y cajas de texto.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Portafolio.
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
@@ -18,9 +18,9 @@ Logotipo : (insertar imagen y breve justificación, si tiene)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Google Chrome y Firefox.
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 4,31MB
 
 Fecha : 14/05/2025
 
