@@ -19,11 +19,11 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en: Google Chrome y Firefox.
 
-Tamaño proyecto: 4,31MB
+Tamaño proyecto: 32 kB
 
 Fecha : 21/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios donde se tiene presencia relacionada:
 
 Github: Alba-santiburcio/alba maria santiburcio gonzalez.github.io
 
