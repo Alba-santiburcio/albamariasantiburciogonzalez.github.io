@@ -12,7 +12,9 @@ Resumen : "Minijuegos interactivos" es una aplicación interactiva realizada con
 
 Estilo/género: Portafolio.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : 
+! [Logotipo en color negro] (![logo en byn](https://github.com/user-attachments/assets/54e92493-d575-4e3d-95f9-7ae9a59eabfb)
+
 
 (insertar imágenes a resolucion de 100px alto)
 
