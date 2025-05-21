@@ -15,23 +15,18 @@ Estilo/género: Portafolio.
 Logotipo : 
 ![logo en byn](https://github.com/user-attachments/assets/54e92493-d575-4e3d-95f9-7ae9a59eabfb)
 
-
-(insertar imágenes a resolucion de 100px alto)
-
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 Probado en: Google Chrome y Firefox.
 
 Tamaño proyecto: 4,31MB
 
-Fecha : 14/05/2025
+Fecha : 21/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github: Alba-santiburcio/alba maria santiburcio gonzalez.github.io
+
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
