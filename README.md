@@ -33,6 +33,7 @@ Github: Alba-santiburcio/alba maria santiburcio gonzalez.github.io
 
 ### 2.1. Esquema de navegación
 ![Captura de pantalla 2025-05-19 172645 (1)](https://github.com/user-attachments/assets/865b0600-c27e-47fe-9aee-504673cf231f)
+
 El esquema de navegación principal aparece con el fondo de color negro para que resalten tanto el logotipo de la flor, como las estresllas en blanco. En el centro, aparecen cada uno de los botones de colores fucsia, verde y amarillo, que contienen un minijuego. El diseño sencillo responde a la mecánica del juego y a facilitar el acceso sin complejidad.
 
 ## 3. Metodología
@@ -44,6 +45,9 @@ Este proyecto es interesante porque permite entretener al jugador y aprender de 
 Está más bien orientado a niños.
 
 Etapa 2: Desarrollo / actividades realizadas
+
+Vídeo:
+https://github.com/user-attachments/assets/d48c2801-6fd9-4f15-a5fa-0b90ef531e0c
 
 Instrucciones y ayuda al usuario:
 En el primero de los niveles, se utiliza el ratón para mover la flor y unirla a su pareja.
