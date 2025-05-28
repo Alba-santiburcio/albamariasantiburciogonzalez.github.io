@@ -16,11 +16,11 @@ Estilo/género: Portafolio.
 Logotipo : 
 ![negro](https://github.com/user-attachments/assets/89bc381e-967b-42d7-b5ed-c857e47536c9)
 
-Resolución: 600x400px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 600x400px tamaño fijo.
 
 Probado en: Google Chrome y Firefox.
 
-Tamaño proyecto: 32 kB
+Tamaño proyecto: 32 kB.
 
 Fecha : 21/05/2025
 
@@ -54,7 +54,7 @@ En el primero de los niveles, se utiliza el ratón para mover la flor y unirla a
 
 En el segundo nivel, se emplean las letras A,S,D y W para moverse hacia la izquierda, abajo, derecha y arriba, respectivamente.
 
-En el tercer nivel, se hace clic a la flor con el ratón las veces deseadas. Más tarde, se cuentan las flores amarillas que aparcen en la pantalla, y este número deberá ser introducido en la caja de texto. Si el resultado es correcto aparecerá un tick y si no lo es, una cruz.
+En el tercer nivel, se hace clic a la flor de color negro con el ratón las veces deseadas. Más tarde, se cuentan las flores amarillas que aparcen en la pantalla, y este número deberá ser introducido en la caja de texto. Si el resultado es correcto aparecerá un tick y si no lo es, una cruz.
 
 Menús y elementos de navegación (botones)
 ![Captura de pantalla 2025-05-19 172804 (1)](https://github.com/user-attachments/assets/9a76956e-38fb-495a-b7dd-f4b6f268a082)
@@ -65,7 +65,7 @@ El botón que aparece en la esquina superior derecha, vuelve al menú principal.
 ![Captura de pantalla 2025-05-19 172723 (1)](https://github.com/user-attachments/assets/e97eaa1b-ac79-4ef5-b2b6-8176e02ef4a0)
 ![Captura de pantalla 2025-05-19 172743 (1)](https://github.com/user-attachments/assets/342e7ada-b0eb-4877-8ebe-fea5dc8ba80b)
 
-Al igual que en la escena anterior; el botón de la esquina superior derecha, vuelve al menú principal. Mientras que los botones que aparecen en las esquinas inferiores, vuelven hacia el juego anterior (izquierda) y el juego posterior (derecha)
+Al igual que en la escena anterior; el botón de la esquina superior derecha, vuelve al menú principal. Mientras que los botones que aparecen en las esquinas inferiores, vuelven hacia el juego anterior (izquierda) y el juego posterior (derecha).
 
 ![Captura de pantalla 2025-05-19 172814 (1)](https://github.com/user-attachments/assets/58a6b722-b925-4985-afd8-d33e1acd1246)
 ![Captura de pantalla 2025-05-19 172847 (1)](https://github.com/user-attachments/assets/25ea1c0b-28f0-4bc4-b9cf-b3f5754c27d7)
@@ -77,7 +77,7 @@ Etapa 3: Problemas identificados
 Un principal problema que he econtrado es en algunos elementos, es la poca calidad de los mismos, pues aparecen en algunos momentos pixelados. Además estaría bien que el juego se reiniciase solo, sin tener que salirse necesariamente del mismo.
 
 ## 4. Conclusiones
-En general, me ha parecido muy interesante crear una página de juegos interactivos, ya que mezclan la programación y el entretenimiento. Con este he podido aprender más posibilidades con la aplicación Hippani, entre las que destaco la generación aleatoria de elementos. Sin embargo, con idea al futuro, estaría genial mejorar algunos de los problemas mencionados antriormente, como por ejemplo que los minijuegos se reinicien solos. Pero estos minijuegos interactivos me parecen una manera sencilla pero creativa de aprender interactivamente.
+En general, me ha parecido muy interesante crear una página de juegos interactivos, ya que mezclan la programación y el entretenimiento. Con este he podido aprender más posibilidades con la aplicación Hippani, entre las que destaco la generación aleatoria de elementos. Sin embargo, con idea al futuro, estaría genial mejorar algunos de los problemas mencionados anteriormente, como por ejemplo que los minijuegos se reinicien solos. Pero estos juegos interactivos me parecen una manera sencilla pero creativa de aprender.
 
 
 **Hippani Animator 5.1**
