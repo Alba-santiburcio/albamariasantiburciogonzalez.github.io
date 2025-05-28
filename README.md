@@ -82,6 +82,7 @@ En general, me ha parecido muy interesante crear una página de juegos interacti
 
 
 **Hippani Animator 5.1**
+
 ![licencia](https://github.com/user-attachments/assets/b03075b0-919e-43e4-8129-d0ec67395fa8)
 
 https://creativecommons.org/licenses/?lang=es
