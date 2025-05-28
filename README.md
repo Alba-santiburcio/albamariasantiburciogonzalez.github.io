@@ -43,7 +43,7 @@ Este proyecto es interesante porque permite entretener al jugador y aprender de 
 
 Está más bien orientado a niños.
 
-Etapa 2: Desarrollo / actividades realizadasg
+Etapa 2: Desarrollo / actividades realizadas
 
 Instrucciones y ayuda al usuario:
 En el primero de los niveles, se utiliza el ratón para mover la flor y unirla a su pareja.
@@ -55,14 +55,17 @@ En el tercer nivel, se hace clic a la flor con el ratón las veces deseadas. Má
 Menús y elementos de navegación (botones)
 ![Captura de pantalla 2025-05-19 172804 (1)](https://github.com/user-attachments/assets/9a76956e-38fb-495a-b7dd-f4b6f268a082)
 ![Captura de pantalla 2025-05-19 172704 (1)](https://github.com/user-attachments/assets/ce92fb22-66f7-4439-b528-f5bcf4170437)
+
 El botón que aparece en la esquina superior derecha, vuelve al menú principal. El botón que aparece en la esquina inferior derecha, da lugar al siguiente nivel.
 
 ![Captura de pantalla 2025-05-19 172723 (1)](https://github.com/user-attachments/assets/e97eaa1b-ac79-4ef5-b2b6-8176e02ef4a0)
 ![Captura de pantalla 2025-05-19 172743 (1)](https://github.com/user-attachments/assets/342e7ada-b0eb-4877-8ebe-fea5dc8ba80b)
+
 Al igual que en la escena anterior; el botón de la esquina superior derecha, vuelve al menú principal. Mientras que los botones que aparecen en las esquinas inferiores, vuelven hacia el juego anterior (izquierda) y el juego posterior (derecha)
 
 ![Captura de pantalla 2025-05-19 172814 (1)](https://github.com/user-attachments/assets/58a6b722-b925-4985-afd8-d33e1acd1246)
 ![Captura de pantalla 2025-05-19 172847 (1)](https://github.com/user-attachments/assets/25ea1c0b-28f0-4bc4-b9cf-b3f5754c27d7)
+
 Los botones de navegación son exactamente los mismos que los anteriores, pero hay dos nuevos. Aquel de color negro y tiene forma de flor, hace que se generen aleatoriamente en la pantalla flores amarillas; y el botón naranja en el que aparece la palabra "Comprobar", como indica, comprueba si el número introducido en el campo de texto es correcto o no.
 
 
