@@ -57,6 +57,7 @@ En el segundo nivel, se emplean las letras A,S,D y W para moverse hacia la izqui
 En el tercer nivel, se hace clic a la flor de color negro con el ratón las veces deseadas. Más tarde, se cuentan las flores amarillas que aparcen en la pantalla, y este número deberá ser introducido en la caja de texto. Si el resultado es correcto aparecerá un tick y si no lo es, una cruz.
 
 Menús y elementos de navegación (botones)
+
 ![Captura de pantalla 2025-05-19 172804 (1)](https://github.com/user-attachments/assets/9a76956e-38fb-495a-b7dd-f4b6f268a082)
 ![Captura de pantalla 2025-05-19 172704 (1)](https://github.com/user-attachments/assets/ce92fb22-66f7-4439-b528-f5bcf4170437)
 
